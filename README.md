@@ -1,1 +1,1 @@
-https://eleex.github.io/ng-timer/
+https://skripkars.github.io/timer/
